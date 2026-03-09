@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007466108564",
+    "project_id": "kigali-directory-81392",
+    "storage_bucket": "kigali-directory-81392.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007466108564:android:cdd219895d7352261c8681",
+        "android_client_info": {
+          "package_name": "com.leslie.kigaliPullup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB0S2K6QhYanuX3Q2TC1JLwfA0nak9VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
